@@ -1,0 +1,34 @@
+
+nav{
+background-color: red;
+ display:flex;
+
+justify-content: center;
+}
+nav ul li{
+    padding: 20px;
+    display: inline-flex;
+    font-size: 20px;
+    list-style: none; 
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+.div-cuerpo{
+    width: 200px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 200px;
+    background-color: darkcyan;
+    margin-left: 800px;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color:red;
+}
+#cajadeositos{
+    display: flex;
+    justify-content: space-evenly;
+}
